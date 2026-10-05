@@ -1,0 +1,42 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Large raw datasets
+backend/data/raw/
+
+# Model/data artifacts
+*.pkl
+*.joblib
+*.parquet
+*.feather
+
+# OS
+.DS_Store
+Thumbs.db

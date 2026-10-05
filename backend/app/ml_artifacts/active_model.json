@@ -1,0 +1,10 @@
+{
+  "model_version": "lightgbm-real-v1",
+  "model_path": "app\\ml_artifacts\\lightgbm-real-v1.joblib",
+  "scaler_path": null,
+  "columns_path": "app\\ml_artifacts\\lightgbm-real-v1.columns.json",
+  "category_vocab_path": "app\\ml_artifacts\\lightgbm-real-v1.category_vocab.json",
+  "numeric_medians_path": "app\\ml_artifacts\\lightgbm-real-v1.numeric_medians.json",
+  "metrics_path": "app\\ml_artifacts\\lightgbm-real-v1.metrics.json",
+  "is_synthetic_data": false
+}
